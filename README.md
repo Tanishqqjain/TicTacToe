@@ -3,4 +3,4 @@
 <p>Single Page Application</p>
 <p>JS frameworks and Responsive Web Design are used.</p>
 <h3>Website : </h3>
-<p>http://tanishqproject.host22.com/#!/InstructionScreen</p>
+<a href="http://tanishqproject.host22.com/#!/InstructionScreen" >Click Here</p>
